@@ -1,2 +1,2 @@
 # NBA-PER-Prediction-
-using multiple linear regression to predict an NBA player's PER in R 
+using multiple linear regression to predict an NBA player's PER  
